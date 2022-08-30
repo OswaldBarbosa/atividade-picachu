@@ -127,10 +127,9 @@ footer {
         display: none;
     }
 }
-
 @media (max-width:640px){
     .pikachu-image {
-        display: 90vw;
+        width: 90vw;
     }
     .description__title{
         font-size: 10vw;
